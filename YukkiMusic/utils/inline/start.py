@@ -33,7 +33,7 @@ def start_pannel(_):
 
                     InlineKeyboardButton(
 
-                        "🅐𝖚𝖏𝖑𝖆 Сհατ🌾", url=f"https://t.me/Urban_Chat_Group"
+                        "❤️𝔾ℝ𝕆𝕌ℙ🤍", url=f"https://t.me/Urban_Chat_Group"
 
                     ),
 
