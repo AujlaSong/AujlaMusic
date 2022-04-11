@@ -39,7 +39,7 @@ def stream_markup(_, videoid):
                     text="📽️ꌗ꓄ꍏ꓄ꀎꌗ📺", url=f"https://t.me/Punjabi_Status_Mania"
                 ),
                 InlineKeyboardButton(
-                    text="🅐𝖚𝖏𝖑𝖆 Сհατ🌾", url=f"https://t.me/Urban_Chat_Group"
+                    text="❤️𝔾ℝ𝕆𝕌ℙ🤍", url=f"https://t.me/Urban_Chat_Group"
                 ),
             ],
     ]
